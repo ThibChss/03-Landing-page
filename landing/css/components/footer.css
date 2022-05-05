@@ -1,0 +1,33 @@
+.footer {
+  background-color: #2C2B2B;
+  padding: 35px;
+  text-align: center;
+}
+
+.footer ul {
+  padding: 0;
+}
+
+.footer p {
+  color: white;
+  opacity: 0.5;
+}
+
+.footer li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+  font-size: 32px;
+  color: #1EDD88;
+}
+
+.footer a:hover {
+  opacity: 1;
+}
+
+.footer a {
+  opacity: 0.5;
+  transition: opacity .3s ease-in-out;
+  text-decoration: none;
+  color: inherit;
+}

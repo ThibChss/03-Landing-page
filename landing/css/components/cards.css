@@ -1,0 +1,34 @@
+.cards-container h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.cards-container img {
+  width: 130px;
+  height: 130px;
+}
+
+.cards-content {
+  width: 200px;
+  height: 240px;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  margin: 40px;
+}
+
+.cards-content p {
+  opacity: 0.5;
+}
+
+.cards-content a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.cards {
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+  padding-top: 0%;
+}
